@@ -1,2 +1,2 @@
 # logger
-基本log/slog封装的通用日志工具
+基于log/slog封装的通用日志工具
