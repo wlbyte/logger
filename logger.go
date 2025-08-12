@@ -31,7 +31,7 @@ type Config struct {
 func init() {
 	Init(Config{
 		Format:    "json",
-		AddSource: true,
+		AddSource: false,
 		Level:     "info",
 	})
 }
